@@ -18,6 +18,7 @@
 %new
 -(void)handleNotification:(NSNotification *) notification {
     NSLog(@"Got the Notification, running the update, OBJC");
+    [self callMe];
 }
 
 
