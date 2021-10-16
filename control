@@ -1,0 +1,9 @@
+Package: me.midnightchips.notificationtest
+Name: notificationtest
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Orion tweak!
+Maintainer: midnightchips
+Author: midnightchips
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2)
